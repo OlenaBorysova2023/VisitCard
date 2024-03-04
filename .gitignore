@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 .eslintrc.cjs
 package-lock.json
+
+#keys
+id_visitcard*
